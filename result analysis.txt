@@ -1,0 +1,50 @@
+Nama File: dataTugas1_input_5x5
+Error norm2: 0.4686
+waktuEksekusiFaktorisasi = 0.0102
+waktuEksekusiSolve = 3.0535e-04
+waktuEksekusiAlgo  = 2.3564e-04
+dimensiAwal    = 5x5
+dimensiCompact = 5x5
+
+Nama File: dataTugas1_input_10x10
+Error norm2: 1.8155
+waktuEksekusiFaktorisasi = 0.0330
+waktuEksekusiSolve = 2.2537e-04
+waktuEksekusiAlgo  = 2.4462e-04
+dimensiAwal    = 10x10
+dimensiCompact = 5x10
+
+Nama File: dataTugas1_input_50x50
+Error norm2: 79.6025
+waktuEksekusiFaktorisasi = 0.4106
+waktuEksekusiSolve = 0.0026
+waktuEksekusiAlgo  = 8.8696e-04
+dimensiAwal    = 50x50
+dimensiCompact = 5x50
+
+Nama File: dataTugas1_input_100x100
+Error norm2: 276.3247
+waktuEksekusiFaktorisasi = 2.3134
+waktuEksekusiSolve = 4.2808e-04
+waktuEksekusiAlgo  = 0.0012
+dimensiAwal    = 100x100
+dimensiCompact = 5x100
+
+Nama File: dataTugas1_input_500x500
+Error norm2: 1.4018e+19
+waktuEksekusiFaktorisasi = 14.4667
+waktuEksekusiSolve = 0.0036
+waktuEksekusiAlgo  = 0.0063
+dimensiAwal    = 500x500
+dimensiCompact = 5x500
+
+
+Nama File: dataTugas1_input_1000x1000
+Error norm2: 8.1457e+33
+waktuEksekusiFaktorisasi = 60.8155
+waktuEksekusiSolve = 0.0012
+waktuEksekusiAlgo  = 0.0295
+dimensiAwal    = 1000x1000
+dimensiCompact = 5x1000
+
+#ard
